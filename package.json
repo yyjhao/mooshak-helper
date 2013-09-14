@@ -2,7 +2,6 @@
     "name": "mooshak-grader",
     "description": "Script to facilitate grading with mooshak",
     "dependencies": {
-        "zombie": "",
-        "Q": ""
+        "zombie": ""
     }
 }

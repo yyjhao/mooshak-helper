@@ -1,6 +1,5 @@
 var config = require("./config.json"),
     Browser = require("zombie"),
-    Q = require("Q"),
     fs = require("fs");
 
 module.exports = function(username, password, displayName, contest, dir){
